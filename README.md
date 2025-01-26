@@ -21,5 +21,7 @@ This personal SIEM project aimed to create a security measure to monitor my own 
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Step 1: Planning the SOC Architecture
+
 ![SOCMAP drawio](https://github.com/user-attachments/assets/d02ef954-afbe-423b-93b6-5b0475a31666)
+
 *Ref 1: Network Diagram*
