@@ -1,4 +1,4 @@
-# Personal-SIEM-Project
+![SOCMAP drawio](https://github.com/user-attachments/assets/3b413ca3-a652-4e18-837d-5d505d08717b)# Personal-SIEM-Project
 Creating a SIEM to match my personal cybersecurity needs using Wazuh.
 
 ## Objective
@@ -20,11 +20,6 @@ This personal SIEM project aimed to create a security measure to monitor my own 
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
+## Step 1: Planning the SOC Architecture
+![SOCMAP drawio](https://github.com/user-attachments/assets/d02ef954-afbe-423b-93b6-5b0475a31666)
 *Ref 1: Network Diagram*
