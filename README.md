@@ -22,6 +22,7 @@ This personal SIEM project aimed to create a security measure to monitor my own 
 
 ## Step 1: Planning the SOC Architecture
 
-![SOCMAP drawio](https://github.com/user-attachments/assets/d02ef954-afbe-423b-93b6-5b0475a31666)
+![image](https://github.com/user-attachments/assets/b0ba5d23-2f13-435d-9504-2a04bcf6f1e4)
 
 *Ref 1: Network Diagram*
+
