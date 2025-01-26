@@ -26,3 +26,4 @@ This personal SIEM project aimed to create a security measure to monitor my own 
 
 *Ref 1: Network Diagram*
 
+This is a high level overview of the dataflow and architecture of the project. Doing this is essential as it provides a clear layout of what you are trying to accomplish with your project.
