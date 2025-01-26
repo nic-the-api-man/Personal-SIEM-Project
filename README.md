@@ -3,7 +3,7 @@ Creating a SIEM to match my personal cybersecurity needs using Wazuh.
 
 ## Objective
 
-This personal SIEM project aimed to create a security measure to monitor my own security environment between two devices. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies. Most importantly, it is also aimed at taking control of my own security.
+This personal SIEM project aimed to create a security measure to monitor my own security environment between two devices. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies. Most importantly, it is also aimed at taking control of my own security. Also special shoutout to MyDFIR on youtube for providing a great tutorial on this specific project.
 
 ### Skills Learned
 
