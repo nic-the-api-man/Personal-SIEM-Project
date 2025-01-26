@@ -20,10 +20,12 @@ This personal SIEM project aimed to create a security measure to monitor my own 
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-## Step 1: Planning the SOC Architecture
+## Part 1: Planning the SOC Architecture
 
 ![image](https://github.com/user-attachments/assets/b0ba5d23-2f13-435d-9504-2a04bcf6f1e4)
 
 *Ref 1: Network Diagram*
 
-This is a high level overview of the dataflow and architecture of the project. Doing this is essential as it provides a clear layout of what you are trying to accomplish with your project.
+This is a high level overview of the dataflow and architecture of the project. Doing this is essential as it provides a clear layout of what you are trying to accomplish with your project. 
+
+## Part 2: Setting up the Environment
