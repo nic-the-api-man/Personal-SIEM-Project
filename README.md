@@ -1,4 +1,4 @@
-![SOCMAP drawio](https://github.com/user-attachments/assets/3b413ca3-a652-4e18-837d-5d505d08717b)# Personal-SIEM-Project
+# Personal-SIEM-Project
 Creating a SIEM to match my personal cybersecurity needs using Wazuh.
 
 ## Objective
