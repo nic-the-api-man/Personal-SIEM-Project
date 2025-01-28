@@ -29,3 +29,8 @@ This personal SIEM project aimed to create a security measure to monitor my own 
 This is a high level overview of the dataflow and architecture of the project. Doing this is essential as it provides a clear layout of what you are trying to accomplish with your project. 
 
 ## Part 2: Setting up the Environment
+I used an Ubuntu server to host my Wazuh manager and other dependencies. This process was straightforward, online materials were enough to help with the setup. 
+
+## Part 3: Tuning the SIEM
+
+## Reflections
