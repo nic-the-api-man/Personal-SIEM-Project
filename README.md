@@ -35,4 +35,4 @@ I used an Ubuntu server to host my Wazuh manager and other dependencies. This pr
 
 ## Reflections
 
-Implementing a SIEM on two personal devices can be a great way to learn about different security concepts. Throughout the process security is always something you should always have in mind. Thinking about how threats may look to attack your infrastructure throughout the process should play a role in how to build systems. For example, since you are deploying something on the public cloud, it is critical to configure it's firewall systems accurately to avoid mass scanners and unwanted entities from accessing your wazuh manager page.
+Implementing a SIEM on two personal devices can be a great way to learn about different security concepts. Throughout the process security is always something you should always have in mind. Thinking about how threats may look to attack your infrastructure throughout the process should play a role in how to build systems. For example, since you are deploying something on the public cloud, it is critical to configure it's firewall systems accurately to avoid mass scanners and unwanted entities from accessing your wazuh manager.
